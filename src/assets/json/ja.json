@@ -1,0 +1,139 @@
+{
+  "name": "紗夢",
+  "fullname": "蔵土縁 紗夢",
+  "id": "ja",
+  "trick": [
+    {
+      "command": "5P（立P）",
+      "occur": "3F",
+      "rigit": "±0",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "2P（屈P）",
+      "occur": "4F",
+      "rigit": "+3",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "JP（空P）",
+      "occur": "6F",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "6P（前P）",
+      "occur": "9F",
+      "rigit": "+2",
+      "advantage": "advantageous",
+      "invincible": "1~5上半身、6~14膝上"
+    },
+    {
+      "command": "5K（立K）",
+      "occur": "4F",
+      "rigit": "+2",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "2K（屈K）",
+      "occur": "5F",
+      "rigit": "±0",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "JK（空K）",
+      "occur": "5F",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "6K（前K）",
+      "occur": "6F",
+      "rigit": "-18F",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "5S（近S）",
+      "occur": "6F",
+      "rigit": "-6",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "5S（遠S）",
+      "occur": "6F",
+      "rigit": "-2",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "2S（屈S）",
+      "occur": "6F",
+      "rigit": "±0",
+      "invincible": "--"
+    },
+    {
+      "command": "JS（空S）",
+      "occur": "5F",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "5HS（立S）",
+      "occur": "13F",
+      "rigit": "+1",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "2HS（屈HS）",
+      "occur": "11F",
+      "rigit": "±0",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "JHS（空HS）",
+      "occur": "5F",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "6HS（前HS）",
+      "occur": "14F",
+      "rigit": "-6F",
+      "advantage": "unfavorable",
+      "invincible": "4~6下半身、7~13足元"
+    },
+    {
+      "command": "足払い（6D）",
+      "occur": "6F",
+      "rigit": "-6F",
+      "advantage": "unfavorable",
+      "invincible": "4~9膝上"
+    },
+    {
+      "command": "ダストアタック（5D）",
+      "occur": "25F",
+      "rigit": "-2F",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "デッドアングルアタック",
+      "occur": "10F",
+      "rigit": "-15F",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    }
+  ]
+}

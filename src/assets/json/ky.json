@@ -1,0 +1,121 @@
+{
+  "name": "カイ",
+  "fullname": "カイ=キスク",
+  "id": "ky",
+  "trick": [
+    {
+      "command": "5P（立P）",
+      "occur": "5F",
+      "rigit": "+1",
+      "invincible": "--"
+    },
+    {
+      "command": "2P（屈P）",
+      "occur": "5F",
+      "rigit": "+2",
+      "invincible": "--"
+    },
+    {
+      "command": "JP（空P）",
+      "occur": "6F",
+      "rigit": "--",
+      "invincible": "--"
+    },
+    {
+      "command": "6P（前P）",
+      "occur": "9F",
+      "rigit": "-6",
+      "invincible": "1~6上半身、7~13膝上"
+    },
+    {
+      "command": "5K（立K）",
+      "occur": "4F",
+      "rigit": "+2",
+      "invincible": "--"
+    },
+    {
+      "command": "2K（屈K）",
+      "occur": "5F",
+      "rigit": "±0",
+      "invincible": "--"
+    },
+    {
+      "command": "JK（空K）",
+      "occur": "5F",
+      "rigit": "--",
+      "invincible": "--"
+    },
+    {
+      "command": "6K（前K）",
+      "occur": "6F",
+      "rigit": "-18F",
+      "invincible": "--"
+    },
+    {
+      "command": "5S（近S）",
+      "occur": "6F",
+      "rigit": "-6",
+      "invincible": "--"
+    },
+    {
+      "command": "5S（遠S）",
+      "occur": "6F",
+      "rigit": "-2",
+      "invincible": "--"
+    },
+    {
+      "command": "2S（屈S）",
+      "occur": "6F",
+      "rigit": "±0",
+      "invincible": "--"
+    },
+    {
+      "command": "JS（空S）",
+      "occur": "5F",
+      "rigit": "--",
+      "invincible": "--"
+    },
+    {
+      "command": "5HS（立S）",
+      "occur": "13F",
+      "rigit": "+1",
+      "invincible": "--"
+    },
+    {
+      "command": "2HS（屈HS）",
+      "occur": "11F",
+      "rigit": "±0",
+      "invincible": "--"
+    },
+    {
+      "command": "JHS（空HS）",
+      "occur": "5F",
+      "rigit": "--",
+      "invincible": "--"
+    },
+    {
+      "command": "6HS（前HS）",
+      "occur": "14F",
+      "rigit": "-6F",
+      "invincible": "4~6下半身、7~13足元"
+    },
+    {
+      "command": "足払い（6D）",
+      "occur": "6F",
+      "rigit": "-6F",
+      "invincible": "4~9膝上"
+    },
+    {
+      "command": "ダストアタック（5D）",
+      "occur": "25F",
+      "rigit": "-2F",
+      "invincible": "--"
+    },
+    {
+      "command": "デッドアングルアタック",
+      "occur": "10F",
+      "rigit": "-15F",
+      "invincible": "--"
+    }
+  ]
+}
