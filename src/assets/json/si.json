@@ -1,0 +1,238 @@
+{
+  "name": "シン",
+  "fullname": "シン=キスク",
+  "id": "si",
+  "trick": [
+    {
+      "command": "5P（立P）",
+      "occur": "6",
+      "rigit": "+2",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "2P（屈P）",
+      "occur": "5",
+      "rigit": "+2",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "JP（空P）",
+      "occur": "6",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "6P（前P）",
+      "occur": "9",
+      "rigit": "-10",
+      "advantage": "unfavorable",
+      "invincible": "1~14上半身"
+    },
+    {
+      "command": "5K（立K）",
+      "occur": "7",
+      "rigit": "-3",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "2K（屈K）",
+      "occur": "7",
+      "rigit": "+1",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "JK（空K）",
+      "occur": "8",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "3K",
+      "occur": "11",
+      "rigit": "-2",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "5S（近S）",
+      "occur": "7",
+      "rigit": "-4",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "5S（遠S）",
+      "occur": "9",
+      "rigit": "-7",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "2S（屈S）",
+      "occur": "9",
+      "rigit": "-5",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "JS（空S）",
+      "occur": "9",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "5HS（立HS）",
+      "occur": "11",
+      "rigit": "-8",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "2HS（屈HS）",
+      "occur": "11",
+      "rigit": "-17",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "JHS（空HS）",
+      "occur": "9",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "6HS（前HS）",
+      "occur": "9",
+      "rigit": "+2",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "J6HS（空6HS）",
+      "occur": "11",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "足払い（6D）",
+      "occur": "10",
+      "rigit": "±0",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "ダストアタック（5D）",
+      "occur": "29",
+      "rigit": "-3",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "デッドアングルアタック",
+      "occur": "9",
+      "rigit": "-12",
+      "advantage": "unfavorable",
+      "invincible": "1~14上半身"
+    },
+    {
+      "command": "ブリッツ",
+      "occur": "28~(63)",
+      "rigit": "-2(+5)",
+      "advantage": "equality",
+      "invincible": "()内は最大溜め時"
+    },
+    {
+      "command": "ホークベイカー",
+      "occur": "9",
+      "rigit": "-33",
+      "advantage": "unfavorable",
+      "invincible": "1~10無敵"
+    },
+    {
+      "command": "ビークドライバー",
+      "occur": "11",
+      "rigit": "-16",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "ビークドライバー(空中)",
+      "occur": "9",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "ビークドライバー(溜め)",
+      "occur": "34~251",
+      "rigit": "+4",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "がむしゃらに突いてみた",
+      "occur": "8",
+      "rigit": "-11",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "ブルバッシュ",
+      "occur": "31",
+      "rigit": "-9",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "エルクハント",
+      "occur": "15",
+      "rigit": "±0",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "飛び上がり(P,K)",
+      "occur": "全体19",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "8~空"
+    },
+    {
+      "command": "ヴァルチャーシーズ",
+      "occur": "14",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "RTL",
+      "occur": "10+1",
+      "rigit": "-40",
+      "advantage": "unfavorable",
+      "invincible": "4~16無敵"
+    },
+    {
+      "command": "RTL(バースト)",
+      "occur": "10+1",
+      "rigit": "-40",
+      "advantage": "unfavorable",
+      "invincible": "1~16無敵"
+    },
+    {
+      "command": "ヴォルテックデイン",
+      "occur": "26+2",
+      "rigit": "+60",
+      "advantage": "advantageous",
+      "invincible": "--"
+    }
+  ]
+}

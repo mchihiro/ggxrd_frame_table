@@ -1,0 +1,231 @@
+{
+  "name": "ソル",
+  "fullname": "ソル=バッドガイ",
+  "id": "so",
+  "trick": [
+    {
+      "command": "5P（立P）",
+      "occur": "4",
+      "rigit": "±0",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "2P（屈P）",
+      "occur": "5",
+      "rigit": "+2",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "JP（空P）",
+      "occur": "5",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "6P（前P）",
+      "occur": "9",
+      "rigit": "-9",
+      "advantage": "unfavorable",
+      "invincible": "1~7 12~19上半身、8~11膝上"
+    },
+    {
+      "command": "5K（立K）",
+      "occur": "5",
+      "rigit": "-7",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "2K（屈K）",
+      "occur": "6",
+      "rigit": "-1",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "JK（空K）",
+      "occur": "6",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "5S（近S）",
+      "occur": "5",
+      "rigit": "-4",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "5S（遠S）",
+      "occur": "7",
+      "rigit": "-11",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "2S（屈S）",
+      "occur": "10",
+      "rigit": "+3",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "JS（空S）",
+      "occur": "9",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "5HS（立HS）",
+      "occur": "11",
+      "rigit": "-9",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "2HS（屈HS）",
+      "occur": "8",
+      "rigit": "-13",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "JHS（空HS）",
+      "occur": "9",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "6HS（前HS）",
+      "occur": "17",
+      "rigit": "-10",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "足払い（6D）",
+      "occur": "7",
+      "rigit": "-6",
+      "advantage": "unfavorable",
+      "invincible": "4~20低姿勢"
+    },
+    {
+      "command": "ダストアタック（5D）",
+      "occur": "24",
+      "rigit": "-13",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "デッドアングルアタック",
+      "occur": "11",
+      "rigit": "-14",
+      "advantage": "unfavorable",
+      "invincible": "1~13無敵,14~33投,14~23上半身"
+    },
+    {
+      "command": "ブリッツ",
+      "occur": "28~(63)",
+      "rigit": "-2(+5)",
+      "advantage": "equality",
+      "invincible": "()内は最大溜め時"
+    },
+    {
+      "command": "ガンフレイム",
+      "occur": "20",
+      "rigit": "-4",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "ヴォルカニックヴァイパー(S)",
+      "occur": "7",
+      "rigit": "-26",
+      "advantage": "unfavorable",
+      "invincible": "1~9無敵,7~12打撃,10~空"
+    },
+    {
+      "command": "ヴォルカニックヴァイパー(S空中)",
+      "occur": "5",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "1~9打撃"
+    },
+    {
+      "command": "ヴォルカニックヴァイパー(HS)",
+      "occur": "5",
+      "rigit": "-41",
+      "advantage": "unfavorable",
+      "invincible": "1~6無敵,7~11打撃,7~空"
+    },
+    {
+      "command": "ヴォルカニックヴァイパー(HS空中)",
+      "occur": "5",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "1~11打撃"
+    },
+    {
+      "command": "バンディットリボルバー",
+      "occur": "9",
+      "rigit": "-5",
+      "advantage": "unfavorable",
+      "invincible": "1~3打撃,9~空&足元"
+    },
+    {
+      "command": "バンディットリボルバー(空中)",
+      "occur": "4",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "1~3打撃"
+    },
+    {
+      "command": "砕けろ",
+      "occur": "22",
+      "rigit": "+2",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "ライオットスタンプ",
+      "occur": "壁接触後10",
+      "rigit": "+6",
+      "advantage": "advantageous",
+      "invincible": "1~空&下半身"
+    },
+    {
+      "command": "グランドヴァイパー",
+      "occur": "17",
+      "rigit": "-56",
+      "advantage": "unfavorable",
+      "invincible": "1~4 17~21低姿勢,5~16超低姿勢,24~25打撃,38~43打撃"
+    },
+    {
+      "command": "レイランレイブ",
+      "occur": "5+1",
+      "rigit": "-15",
+      "advantage": "unfavorable",
+      "invincible": "1~8打撃"
+    },
+    {
+      "command": "レイランレイブ(バースト)",
+      "occur": "5+1",
+      "rigit": "-15",
+      "advantage": "unfavorable",
+      "invincible": "1~8無敵"
+    },
+    {
+      "command": "ドラゴンインストール",
+      "occur": "全体19",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "7~19無敵"
+    }
+  ]
+}

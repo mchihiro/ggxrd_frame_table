@@ -1,0 +1,252 @@
+{
+  "name": "ミリア",
+  "fullname": "ミリア=レイジ",
+  "id": "mi",
+  "trick": [
+    {
+      "command": "5P（立P）",
+      "occur": "7",
+      "rigit": "-1",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "2P（屈P）",
+      "occur": "5",
+      "rigit": "+2",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "JP（空P）",
+      "occur": "5",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "6P（前P）",
+      "occur": "10",
+      "rigit": "-13",
+      "advantage": "unfavorable",
+      "invincible": "1~14上半身"
+    },
+    {
+      "command": "5K（立K）",
+      "occur": "5",
+      "rigit": "-10",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "2K（屈K）",
+      "occur": "5",
+      "rigit": "+1",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "6K（前K）",
+      "occur": "19",
+      "rigit": "+1",
+      "advantage": "advantageous",
+      "invincible": "5~20下半身,21~22足元"
+    },
+    {
+      "command": "JK（空K）",
+      "occur": "4",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "5S（近S）",
+      "occur": "7",
+      "rigit": "-6",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "5S（遠S）",
+      "occur": "7",
+      "rigit": "-6",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "2S（屈S）",
+      "occur": "9",
+      "rigit": "-3",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "JS（空S）",
+      "occur": "10",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "5HS（立HS）",
+      "occur": "6",
+      "rigit": "-4",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "2HS（屈HS）",
+      "occur": "11",
+      "rigit": "-2",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "JHS（空HS）",
+      "occur": "8",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "6HS（前HS）",
+      "occur": "15",
+      "rigit": "-6",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "足払い（6D）",
+      "occur": "13",
+      "rigit": "-1",
+      "advantage": "unfavorable",
+      "invincible": "10~21足元"
+    },
+    {
+      "command": "ダストアタック（5D）",
+      "occur": "28",
+      "rigit": "-10",
+      "advantage": "unfavorable",
+      "invincible": "9~14低姿勢,15~17膝上"
+    },
+    {
+      "command": "デッドアングルアタック",
+      "occur": "10",
+      "rigit": "-12",
+      "advantage": "unfavorable",
+      "invincible": "1~12無敵,13~29投"
+    },
+    {
+      "command": "ブリッツ",
+      "occur": "28~(63)",
+      "rigit": "-2(+5)",
+      "advantage": "equality",
+      "invincible": "()内は最大溜め時"
+    },
+    {
+      "command": "バッドムーン",
+      "occur": "11",
+      "rigit": "-17",
+      "advantage": "unfavorable",
+      "invincible": "※要公式参照"
+    },
+    {
+      "command": "タンデムトップ(S)",
+      "occur": "11",
+      "rigit": "-1",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "タンデムトップ(HS)",
+      "occur": "60",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "ラストシェイカー",
+      "occur": "17",
+      "rigit": "+6",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "ラストシェイカー(連打)",
+      "occur": "10",
+      "rigit": "+6",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "アイアンセイバー",
+      "occur": "17",
+      "rigit": "-13",
+      "advantage": "unfavorable",
+      "invincible": "7~空"
+    },
+    {
+      "command": "再前転",
+      "occur": "全体18",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "4~11超低姿勢,12~18膝上"
+    },
+    {
+      "command": "ラストシェイカー(派生)",
+      "occur": "17",
+      "rigit": "+6",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "ディジタリス",
+      "occur": "7",
+      "rigit": "-11",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "ダスト(派生)",
+      "occur": "25",
+      "rigit": "-10",
+      "advantage": "unfavorable",
+      "invincible": "7~11低姿勢,12~14膝上"
+    },
+    {
+      "command": "サイレントフォース(S)",
+      "occur": "11",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "サイレントフォース(HS)",
+      "occur": "11",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "シークレットガーデン",
+      "occur": "77",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "ウィンガー",
+      "occur": "5+1",
+      "rigit": "-22",
+      "advantage": "unfavorable",
+      "invincible": "1~7無敵,8~空&上半身"
+    },
+    {
+      "command": "エメラルドレイン",
+      "occur": "4+1",
+      "rigit": "-3",
+      "advantage": "unfavorable",
+      "invincible": "4打撃"
+    }
+  ]
+}

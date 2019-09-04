@@ -1,0 +1,224 @@
+{
+  "name": "ポチョ",
+  "fullname": "ポチョムキン",
+  "id": "po",
+  "trick": [
+    {
+      "command": "5P（立P）",
+      "occur": "5",
+      "rigit": "+1",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "2P（屈P）",
+      "occur": "6",
+      "rigit": "±0",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "JP（空P）",
+      "occur": "7",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "6P（前P）",
+      "occur": "11",
+      "rigit": "-9",
+      "advantage": "unfavorable",
+      "invincible": "1~4上半身、5~12膝上"
+    },
+    {
+      "command": "5K（立K）",
+      "occur": "10",
+      "rigit": "-4",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "2K（屈K）",
+      "occur": "7",
+      "rigit": "-6",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": " 6K（前K）",
+      "occur": "16",
+      "rigit": "-9",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "JK（空K）",
+      "occur": "10",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "5S（近S）",
+      "occur": "5",
+      "rigit": "-4",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "5S（遠S）",
+      "occur": "11",
+      "rigit": "-11",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "2S（屈S）",
+      "occur": "14",
+      "rigit": "-6",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "JS（空S）",
+      "occur": "13",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "5HS（立HS）",
+      "occur": "15",
+      "rigit": "-4",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "2HS（屈HS）",
+      "occur": "13",
+      "rigit": "-21",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "JHS（空HS）",
+      "occur": "12",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "6HS（前HS）",
+      "occur": "23",
+      "rigit": "-6",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "足払い（6D）",
+      "occur": "12",
+      "rigit": "-2",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "ダストアタック（5D）",
+      "occur": "27",
+      "rigit": "+1",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "デッドアングルアタック",
+      "occur": "13",
+      "rigit": "-9",
+      "advantage": "unfavorable",
+      "invincible": "1~17無敵,18~32投"
+    },
+    {
+      "command": "ブリッツ",
+      "occur": "28~(63)",
+      "rigit": "-2(+5)",
+      "advantage": "equality",
+      "invincible": "()内は最大溜め時"
+    },
+    {
+      "command": "ヒートナックル",
+      "occur": "12",
+      "rigit": "+12(ヒット時)",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "メガフィスト(前)",
+      "occur": "24",
+      "rigit": "-4",
+      "advantage": "unfavorable",
+      "invincible": "1~39下半身,4~空"
+    },
+    {
+      "command": "メガフィスト(後)",
+      "occur": "25",
+      "rigit": "+4",
+      "advantage": "advantageous",
+      "invincible": "1~39下半身,4~空"
+    },
+    {
+      "command": "スライドヘッド",
+      "occur": "25",
+      "rigit": "-11",
+      "advantage": "unfavorable",
+      "invincible": "1~16膝上"
+    },
+    {
+      "command": "ハンマーフォール",
+      "occur": "18~31",
+      "rigit": "-16",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "FDB",
+      "occur": "19(36)",
+      "rigit": "+2",
+      "advantage": "advantageous",
+      "invincible": "()は最大溜め"
+    },
+    {
+      "command": "ポチョムキンバスター",
+      "occur": "3",
+      "rigit": "+62",
+      "advantage": "advantageous",
+      "invincible": "1~2投,3無敵"
+    },
+    {
+      "command": "トリシューラ",
+      "occur": "25",
+      "rigit": "-6",
+      "advantage": "unfavorable",
+      "invincible": "1~39膝上"
+    },
+    {
+      "command": "ICPM",
+      "occur": "13",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "ヘブンリーポチョムキンバスター",
+      "occur": "10+1",
+      "rigit": "+56",
+      "advantage": "advantageous",
+      "invincible": "1~12無敵,13~25上半身&投"
+    },
+    {
+      "command": "ガイガンダー",
+      "occur": "9+8",
+      "rigit": "±0",
+      "advantage": "equality",
+      "invincible": "1~9無敵"
+    }
+  ]
+}

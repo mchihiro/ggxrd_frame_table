@@ -5,135 +5,359 @@
   "trick": [
     {
       "command": "5P（立P）",
-      "occur": "3F",
+      "occur": "3",
       "rigit": "±0",
       "advantage": "equality",
       "invincible": "--"
     },
     {
       "command": "2P（屈P）",
-      "occur": "4F",
+      "occur": "4",
       "rigit": "+3",
       "advantage": "advantageous",
       "invincible": "--"
     },
     {
       "command": "JP（空P）",
-      "occur": "6F",
+      "occur": "6",
       "rigit": "--",
       "advantage": "equality",
       "invincible": "--"
     },
     {
       "command": "6P（前P）",
-      "occur": "9F",
+      "occur": "9",
       "rigit": "+2",
       "advantage": "advantageous",
       "invincible": "1~5上半身、6~14膝上"
     },
     {
       "command": "5K（立K）",
-      "occur": "4F",
+      "occur": "4",
       "rigit": "+2",
       "advantage": "advantageous",
       "invincible": "--"
     },
     {
       "command": "2K（屈K）",
-      "occur": "5F",
+      "occur": "5",
       "rigit": "±0",
       "advantage": "equality",
       "invincible": "--"
     },
     {
       "command": "JK（空K）",
-      "occur": "5F",
+      "occur": "5",
       "rigit": "--",
       "advantage": "equality",
       "invincible": "--"
     },
     {
       "command": "6K（前K）",
-      "occur": "6F",
-      "rigit": "-18F",
+      "occur": "6",
+      "rigit": "-18",
       "advantage": "unfavorable",
       "invincible": "--"
     },
     {
       "command": "5S（近S）",
-      "occur": "6F",
+      "occur": "6",
       "rigit": "-6",
       "advantage": "unfavorable",
       "invincible": "--"
     },
     {
       "command": "5S（遠S）",
-      "occur": "6F",
+      "occur": "6",
       "rigit": "-2",
       "advantage": "unfavorable",
       "invincible": "--"
     },
     {
       "command": "2S（屈S）",
-      "occur": "6F",
+      "occur": "6",
       "rigit": "±0",
       "invincible": "--"
     },
     {
       "command": "JS（空S）",
-      "occur": "5F",
+      "occur": "5",
       "rigit": "--",
       "advantage": "equality",
       "invincible": "--"
     },
     {
-      "command": "5HS（立S）",
-      "occur": "13F",
+      "command": "5HS（立HS）",
+      "occur": "13",
       "rigit": "+1",
       "advantage": "advantageous",
       "invincible": "--"
     },
     {
       "command": "2HS（屈HS）",
-      "occur": "11F",
+      "occur": "11",
       "rigit": "±0",
       "advantage": "equality",
       "invincible": "--"
     },
     {
       "command": "JHS（空HS）",
-      "occur": "5F",
+      "occur": "5",
       "rigit": "--",
       "advantage": "equality",
       "invincible": "--"
     },
     {
       "command": "6HS（前HS）",
-      "occur": "14F",
-      "rigit": "-6F",
+      "occur": "14",
+      "rigit": "-6",
       "advantage": "unfavorable",
       "invincible": "4~6下半身、7~13足元"
     },
     {
       "command": "足払い（6D）",
-      "occur": "6F",
-      "rigit": "-6F",
+      "occur": "6",
+      "rigit": "-6",
       "advantage": "unfavorable",
       "invincible": "4~9膝上"
     },
     {
       "command": "ダストアタック（5D）",
-      "occur": "25F",
-      "rigit": "-2F",
+      "occur": "25",
+      "rigit": "-2",
       "advantage": "unfavorable",
       "invincible": "--"
     },
     {
       "command": "デッドアングルアタック",
-      "occur": "10F",
-      "rigit": "-15F",
+      "occur": "10",
+      "rigit": "-15",
       "advantage": "unfavorable",
       "invincible": "--"
+    },
+    {
+      "command": "ブリッツ",
+      "occur": "28~(63)",
+      "rigit": "-2(+5)",
+      "advantage": "equality",
+      "invincible": "()内は最大溜め時"
+    },
+    {
+      "command": "龍刃",
+      "occur": "17",
+      "rigit": "-28",
+      "advantage": "unfavorable",
+      "invincible": "11~空中判定,13下半身"
+    },
+    {
+      "command": "龍刃（派生）",
+      "occur": "8",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "朝龍",
+      "occur": "16",
+      "rigit": "-30",
+      "advantage": "unfavorable",
+      "invincible": "10~17打撃,10~空中"
+    },
+    {
+      "command": "朝龍(派生)",
+      "occur": "8",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "1~8打撃"
+    },
+    {
+      "command": "超龍",
+      "occur": "16",
+      "rigit": "-30",
+      "advantage": "unfavorable",
+      "invincible": "10~17打撃,10~空中"
+    },
+    {
+      "command": "超龍(派生)",
+      "occur": "8",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "1~打撃"
+    },
+    {
+      "command": "逆鱗",
+      "occur": "19",
+      "rigit": "-9",
+      "advantage": "unfavorable",
+      "invincible": "4~空中&下半身"
+    },
+    {
+      "command": "逆鱗(派生)",
+      "occur": "17",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "朝逆",
+      "occur": "18",
+      "rigit": "-6",
+      "advantage": "unfavorable",
+      "invincible": "4~空中&下半身"
+    },
+    {
+      "command": "朝逆(派生)",
+      "occur": "12",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "--"
+    },
+    {
+      "command": "超逆",
+      "occur": "18",
+      "rigit": "-1",
+      "advantage": "unfavorable",
+      "invincible": "4~空中&下半身"
+    },
+    {
+      "command": "剣楼閣",
+      "occur": "7",
+      "rigit": "-37",
+      "advantage": "unfavorable",
+      "invincible": "1~6無敵,4~空中"
+    },
+    {
+      "command": "剣楼閣(派生)",
+      "occur": "5",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "1~4無敵"
+    },
+    {
+      "command": "朝剣",
+      "occur": "7",
+      "rigit": "-38",
+      "advantage": "unfavorable",
+      "invincible": "1~11無敵"
+    },
+    {
+      "command": "朝剣(派生)",
+      "occur": "5",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "1~11無敵"
+    },
+    {
+      "command": "超剣",
+      "occur": "7",
+      "rigit": "-41",
+      "advantage": "unfavorable",
+      "invincible": "1~13無敵,空中行動復活"
+    },
+    {
+      "command": "超剣(派生)",
+      "occur": "5",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "1~11無敵,空中行動復活"
+    },
+    {
+      "command": "爆蹴 回り込み",
+      "occur": "全体25",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "1~25足元以外"
+    },
+    {
+      "command": "爆蹴 波紋脚",
+      "occur": "8",
+      "rigit": "-15",
+      "advantage": "unfavorable",
+      "invincible": "8~28膝上"
+    },
+    {
+      "command": "爆蹴 百歩沁鐘",
+      "occur": "17",
+      "rigit": "+1",
+      "advantage": "advantageous",
+      "invincible": "1~16上半身"
+    },
+    {
+      "command": "爆蹴 千里沁鐘",
+      "occur": "23",
+      "rigit": "+5",
+      "advantage": "advantageous",
+      "invincible": "1~23上半身"
+    },
+    {
+      "command": "爆蹴 千里沁鐘(派生)",
+      "occur": "28",
+      "rigit": "+3",
+      "advantage": "advantageous",
+      "invincible": "1~27上半身"
+    },
+    {
+      "command": "爆蹴 千里沁鐘(裏周り)",
+      "occur": "28",
+      "rigit": "+3",
+      "advantage": "advantageous",
+      "invincible": "1~9 22~28上半身"
+    },
+    {
+      "command": "祓斧",
+      "occur": "全体24",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "1~8当身"
+    },
+    {
+      "command": "絶頸",
+      "occur": "4",
+      "rigit": "-17",
+      "advantage": "unfavorable",
+      "invincible": "飛び道具相殺"
+    },
+    {
+      "command": "剛焼",
+      "occur": "15",
+      "rigit": "-11",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "段牙",
+      "occur": "27",
+      "rigit": "-3",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "兆脚鳳凰昇",
+      "occur": "20",
+      "rigit": "-29",
+      "advantage": "unfavorable",
+      "invincible": "1-10打撃(1~10無敵)"
+    },
+    {
+      "command": "兆脚鳳凰昇(バースト)",
+      "occur": "20",
+      "rigit": "-29",
+      "advantage": "unfavorable",
+      "invincible": "1~10無敵"
+    },
+    {
+      "command": "戀崩孃",
+      "occur": "48",
+      "rigit": "+3",
+      "advantage": "advantageous",
+      "invincible": "1-5投,6~23無敵"
+    },
+    {
+      "command": "爆・砕神掌",
+      "occur": "6",
+      "rigit": "-23",
+      "advantage": "unfavorable",
+      "invincible": "1-7打撃"
     }
   ]
 }

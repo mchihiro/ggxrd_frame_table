@@ -5,116 +5,247 @@
   "trick": [
     {
       "command": "5P（立P）",
-      "occur": "5F",
+      "occur": "5",
       "rigit": "+1",
+      "advantage": "advantageous",
       "invincible": "--"
     },
     {
       "command": "2P（屈P）",
       "occur": "5F",
       "rigit": "+2",
+      "advantage": "advantageous",
       "invincible": "--"
     },
     {
       "command": "JP（空P）",
-      "occur": "6F",
+      "occur": "6",
       "rigit": "--",
+      "advantage": "equality",
       "invincible": "--"
     },
     {
       "command": "6P（前P）",
       "occur": "9F",
       "rigit": "-6",
+      "advantage": "unfavorable",
       "invincible": "1~6上半身、7~13膝上"
     },
     {
       "command": "5K（立K）",
-      "occur": "4F",
-      "rigit": "+2",
+      "occur": "5",
+      "rigit": "-5",
+      "advantage": "unfavorable",
       "invincible": "--"
     },
     {
       "command": "2K（屈K）",
-      "occur": "5F",
+      "occur": "5",
       "rigit": "±0",
+      "advantage": "equality",
       "invincible": "--"
     },
     {
       "command": "JK（空K）",
-      "occur": "5F",
+      "occur": "7",
       "rigit": "--",
+      "advantage": "equality",
       "invincible": "--"
     },
     {
       "command": "6K（前K）",
-      "occur": "6F",
-      "rigit": "-18F",
+      "occur": "19",
+      "rigit": "+4",
+      "advantage": "advantageous",
       "invincible": "--"
     },
     {
       "command": "5S（近S）",
-      "occur": "6F",
-      "rigit": "-6",
+      "occur": "7",
+      "rigit": "-1",
+      "advantage": "unfavorable",
       "invincible": "--"
     },
     {
       "command": "5S（遠S）",
-      "occur": "6F",
-      "rigit": "-2",
+      "occur": "10",
+      "rigit": "-11",
+      "advantage": "unfavorable",
       "invincible": "--"
     },
     {
       "command": "2S（屈S）",
-      "occur": "6F",
-      "rigit": "±0",
+      "occur": "9",
+      "rigit": "-3",
+      "advantage": "unfavorable",
       "invincible": "--"
     },
     {
       "command": "JS（空S）",
-      "occur": "5F",
+      "occur": "7",
       "rigit": "--",
+      "advantage": "equality",
       "invincible": "--"
     },
     {
-      "command": "5HS（立S）",
-      "occur": "13F",
+      "command": "5HS（立HS）",
+      "occur": "10",
       "rigit": "+1",
-      "invincible": "--"
+      "advantage": "advantageous",
+      "invincible": "CH時、+34 ~ +14"
     },
     {
       "command": "2HS（屈HS）",
-      "occur": "11F",
-      "rigit": "±0",
+      "occur": "11",
+      "rigit": "-7",
+      "advantage": "unfavorable",
       "invincible": "--"
     },
     {
       "command": "JHS（空HS）",
-      "occur": "5F",
+      "occur": "13",
       "rigit": "--",
+      "advantage": "equality",
       "invincible": "--"
     },
     {
       "command": "6HS（前HS）",
-      "occur": "14F",
-      "rigit": "-6F",
-      "invincible": "4~6下半身、7~13足元"
+      "occur": "23",
+      "rigit": "+11",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "3HS",
+      "occur": "15",
+      "rigit": "-12",
+      "advantage": "unfavorable",
+      "invincible": "--"
     },
     {
       "command": "足払い（6D）",
-      "occur": "6F",
-      "rigit": "-6F",
-      "invincible": "4~9膝上"
+      "occur": "7",
+      "rigit": "-10",
+      "advantage": "unfavorable",
+      "invincible": "--"
     },
     {
       "command": "ダストアタック（5D）",
-      "occur": "25F",
-      "rigit": "-2F",
+      "occur": "28",
+      "rigit": "-5",
+      "advantage": "unfavorable",
       "invincible": "--"
     },
     {
       "command": "デッドアングルアタック",
-      "occur": "10F",
-      "rigit": "-15F",
+      "occur": "12",
+      "rigit": "-13",
+      "advantage": "unfavorable",
+      "invincible": "1~14無敵,15~32投"
+    },
+    {
+      "command": "ブリッツ",
+      "occur": "28~(63)",
+      "rigit": "-2(+5)",
+      "advantage": "equality",
+      "invincible": "()内は最大溜め時"
+    },
+    {
+      "command": "スタンエッジ",
+      "occur": "10",
+      "rigit": "-10",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "スタンエッジ(強化)",
+      "occur": "~+9",
+      "rigit": "+8",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "スタンエッジ(空中)",
+      "occur": "21",
+      "rigit": "+2(最低空時)",
+      "advantage": "unfavorable",
+      "invincible": "--"
+    },
+    {
+      "command": "チャージスタン",
+      "occur": "38",
+      "rigit": "+14",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "チャージスタン(強化)",
+      "occur": "~+9",
+      "rigit": "+18",
+      "advantage": "advantageous",
+      "invincible": "--"
+    },
+    {
+      "command": "スタンディッパー",
+      "occur": "5",
+      "rigit": "-15",
+      "advantage": "unfavorable",
+      "invincible": "1~4上半身,5~18膝上無敵"
+    },
+    {
+      "command": "グリードセバー",
+      "occur": "19",
+      "rigit": "-10",
+      "advantage": "unfavorable",
+      "invincible": "4~空中 足元"
+    },
+    {
+      "command": "ヴェイパースラスト(S)",
+      "occur": "9",
+      "rigit": "-30",
+      "advantage": "unfavorable",
+      "invincible": "1~8無敵,9~空"
+    },
+    {
+      "command": "ヴェイパースラスト(HS)",
+      "occur": "11",
+      "rigit": "-34",
+      "advantage": "unfavorable",
+      "invincible": "1~10無敵,11~15打撃,11~空"
+    },
+    {
+      "command": "ヴェイパースラスト(空中)",
+      "occur": "9",
+      "rigit": "--",
+      "advantage": "equality",
+      "invincible": "1~11打撃"
+    },
+    {
+      "command": "RTL",
+      "occur": "10+1",
+      "rigit": "-22",
+      "advantage": "unfavorable",
+      "invincible": "1~25無敵"
+    },
+    {
+      "command": "RTL(空中)",
+      "occur": "8+1",
+      "rigit": "-22",
+      "advantage": "equality",
+      "invincible": "1~17無敵"
+    },
+    {
+      "command": "セイクリッドエッジ",
+      "occur": "4+4",
+      "rigit": "+7",
+      "advantage": "advantageous",
+      "invincible": "4~6打撃"
+    },
+    {
+      "command": "セイクリッドエッジ(強化)",
+      "occur": "~+1",
+      "rigit": "+6",
+      "advantage": "advantageous",
       "invincible": "--"
     }
   ]
