@@ -17,8 +17,6 @@ export default {
       initFlag: true
     }
   },
-  mounted () {
-  },
   computed: {
     ...mapGetters({
       characters: 'getCharacters'

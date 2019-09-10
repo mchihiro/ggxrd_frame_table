@@ -8,273 +8,304 @@
       "occur": "7",
       "rigit": "-11",
       "advantage": "unfavorable",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 1
     },
     {
       "command": "2P（屈P）",
       "occur": "12",
       "rigit": "-10",
       "advantage": "unfavorable",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 2
     },
     {
       "command": "JP（空P）",
       "occur": "7",
       "rigit": "--",
       "advantage": "equality",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 2
     },
     {
       "command": "J6P（空前P）",
       "occur": "7",
       "rigit": "--",
       "advantage": "equality",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 4
     },
     {
       "command": "6P（前P）",
       "occur": "9",
       "rigit": "-5",
       "advantage": "unfavorable",
-      "invincible": "1~11上半身"
+      "invincible": "1~11上半身",
+      "number": 5
     },
     {
       "command": "3P",
       "occur": "11",
       "rigit": "+2",
       "advantage": "advantageous",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 6
     },
     {
       "command": "5K（立K）",
       "occur": "6",
       "rigit": "-3",
       "advantage": "unfavorable",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 7
     },
     {
       "command": "2K（屈K）",
       "occur": "7",
       "rigit": "-1",
       "advantage": "unfavorable",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 8
     },
     {
       "command": "6K（前K）",
       "occur": "11",
       "rigit": "-5",
       "advantage": "unfavorable",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 9
     },
     {
       "command": "JK（空K）",
       "occur": "8",
       "rigit": "--",
       "advantage": "equality",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 10
     },
     {
       "command": "J6K（空前K）",
       "occur": "9",
       "rigit": "--",
       "advantage": "equality",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 11
     },
     {
       "command": "5S（近S）",
       "occur": "7",
       "rigit": "+1",
       "advantage": "advantageous",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 12
     },
     {
       "command": "5S（遠S）",
       "occur": "9",
       "rigit": "-11",
       "advantage": "unfavorable",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 13
     },
     {
       "command": "2S（屈S）",
       "occur": "8",
       "rigit": "-5",
       "advantage": "unfavorable",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 14
     },
     {
       "command": "JS（空S）",
       "occur": "11",
       "rigit": "--",
       "advantage": "equality",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 15
     },
     {
       "command": "J2S（空下S）",
       "occur": "13",
       "rigit": "--",
       "advantage": "equality",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 16
     },
     {
       "command": "5HS（立HS）",
       "occur": "16",
       "rigit": "-2",
       "advantage": "unfavorable",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 17
     },
     {
       "command": "2HS（屈HS）",
       "occur": "13",
       "rigit": "-8",
       "advantage": "unfavorable",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 18
     },
     {
       "command": "6HS（前HS）",
       "occur": "23",
       "rigit": "+1",
       "advantage": "advantageous",
-      "invincible": "11~31空"
+      "invincible": "11~31空",
+      "number": 19
     },
     {
       "command": "JHS（空HS）",
       "occur": "10",
       "rigit": "--",
       "advantage": "equality",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 20
     },
     {
       "command": "足払い（6D）",
       "occur": "8",
       "rigit": "-8",
       "advantage": "unfavorable",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 21
     },
     {
-      "command": "ダストアタック（5D）",
+      "command": "ダスト（5D）",
       "occur": "26",
       "rigit": "-4",
       "advantage": "unfavorable",
-      "invincible": "17~25足元"
+      "invincible": "17~25足元",
+      "number": 22
     },
     {
-      "command": "デッドアングルアタック",
+      "command": "DAA",
       "occur": "9",
       "rigit": "-5",
       "advantage": "unfavorable",
-      "invincible": "1~20無敵,21~24投"
+      "invincible": "1~20無敵,21~24投",
+      "number": 23
     },
     {
       "command": "ブリッツ",
       "occur": "28~(63)",
       "rigit": "-2(+5)",
       "advantage": "equality",
-      "invincible": "()内は最大溜め時"
+      "invincible": "()内は最大溜め時",
+      "number": 24
     },
     {
       "command": "鎌閃撃",
       "occur": "12",
       "rigit": "-15",
       "advantage": "unfavorable",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 25
     },
     {
       "command": "曲鎖撃",
       "occur": "1",
       "rigit": "-13",
       "advantage": "unfavorable",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 26
     },
     {
       "command": "旋鎖撃",
       "occur": "7",
       "rigit": "-5",
       "advantage": "unfavorable",
-      "invincible": "--"
-    },
-    {
-      "command": "ラストシェイカー",
-      "occur": "17",
-      "rigit": "+6",
-      "advantage": "advantageous",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 27
     },
     {
       "command": "弁天刈り",
       "occur": "9",
       "rigit": "-27",
       "advantage": "unfavorable",
-      "invincible": "1~11無敵"
+      "invincible": "1~11無敵",
+      "number": 29
     },
     {
       "command": "雷影鎖撃",
       "occur": "28",
       "rigit": "+1",
       "advantage": "advantageous",
-      "invincible": "4~空"
+      "invincible": "4~空",
+      "number": 30
     },
     {
       "command": "羅鐘旋",
       "occur": "27",
       "rigit": "+34",
       "advantage": "advantageous",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 31
     },
     {
       "command": "天放石(上段)",
       "occur": "全体34",
       "rigit": "+60",
       "advantage": "advantageous",
-      "invincible": "4~19上中段当身"
+      "invincible": "4~19上中段当身",
+      "number": 32
     },
     {
       "command": "天放石(下段)",
       "occur": "全体29",
       "rigit": "+60",
       "advantage": "advantageous",
-      "invincible": "4~19下段当身"
+      "invincible": "4~19下段当身",
+      "number": 33
     },
     {
       "command": "アクセルボンバー",
       "occur": "9",
       "rigit": "--",
       "advantage": "equality",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 34
     },
     {
       "command": "鷂(上段)",
       "occur": "23+4",
       "rigit": "--",
       "advantage": "equality",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 35
     },
     {
       "command": "鷂(中段)",
       "occur": "23+5",
       "rigit": "-21",
       "advantage": "unfavorable",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 36
     },
     {
       "command": "鷂(下段)",
       "occur": "23+8",
       "rigit": "-16",
       "advantage": "unfavorable",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 37
     },
     {
       "command": "百重鎌焼",
       "occur": "14+1",
       "rigit": "-4",
       "advantage": "unfavorable",
-      "invincible": "1~16無敵,17~18投"
+      "invincible": "1~16無敵,17~18投",
+      "number": 38
     },
     {
       "command": "鰄夜煌",
       "occur": "3+2",
       "rigit": "+11",
       "advantage": "advantageous",
-      "invincible": "--"
+      "invincible": "--",
+      "number": 39
     }
   ]
 }

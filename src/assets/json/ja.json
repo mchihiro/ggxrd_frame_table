@@ -122,14 +122,14 @@
       "invincible": "4~9膝上"
     },
     {
-      "command": "ダストアタック（5D）",
+      "command": "ダスト（5D）",
       "occur": "25",
       "rigit": "-2",
       "advantage": "unfavorable",
       "invincible": "--"
     },
     {
-      "command": "デッドアングルアタック",
+      "command": "DAA",
       "occur": "10",
       "rigit": "-15",
       "advantage": "unfavorable",
@@ -262,42 +262,42 @@
       "invincible": "1~11無敵,空中行動復活"
     },
     {
-      "command": "爆蹴 回り込み",
+      "command": "回り込み",
       "occur": "全体25",
       "rigit": "--",
       "advantage": "equality",
       "invincible": "1~25足元以外"
     },
     {
-      "command": "爆蹴 波紋脚",
+      "command": "波紋脚",
       "occur": "8",
       "rigit": "-15",
       "advantage": "unfavorable",
       "invincible": "8~28膝上"
     },
     {
-      "command": "爆蹴 百歩沁鐘",
+      "command": "百歩",
       "occur": "17",
       "rigit": "+1",
       "advantage": "advantageous",
       "invincible": "1~16上半身"
     },
     {
-      "command": "爆蹴 千里沁鐘",
+      "command": "千里",
       "occur": "23",
       "rigit": "+5",
       "advantage": "advantageous",
       "invincible": "1~23上半身"
     },
     {
-      "command": "爆蹴 千里沁鐘(派生)",
+      "command": "千里(派生)",
       "occur": "28",
       "rigit": "+3",
       "advantage": "advantageous",
       "invincible": "1~27上半身"
     },
     {
-      "command": "爆蹴 千里沁鐘(裏周り)",
+      "command": "千里(裏周り)",
       "occur": "28",
       "rigit": "+3",
       "advantage": "advantageous",

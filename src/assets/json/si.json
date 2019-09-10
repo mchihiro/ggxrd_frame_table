@@ -130,14 +130,14 @@
       "invincible": "--"
     },
     {
-      "command": "ダストアタック（5D）",
+      "command": "ダスト（5D）",
       "occur": "29",
       "rigit": "-3",
       "advantage": "unfavorable",
       "invincible": "--"
     },
     {
-      "command": "デッドアングルアタック",
+      "command": "DAA",
       "occur": "9",
       "rigit": "-12",
       "advantage": "unfavorable",
@@ -151,28 +151,28 @@
       "invincible": "()内は最大溜め時"
     },
     {
-      "command": "ホークベイカー",
+      "command": "ホーク",
       "occur": "9",
       "rigit": "-33",
       "advantage": "unfavorable",
       "invincible": "1~10無敵"
     },
     {
-      "command": "ビークドライバー",
+      "command": "ビーク",
       "occur": "11",
       "rigit": "-16",
       "advantage": "unfavorable",
       "invincible": "--"
     },
     {
-      "command": "ビークドライバー(空中)",
+      "command": "ビーク(空中)",
       "occur": "9",
       "rigit": "--",
       "advantage": "equality",
       "invincible": "--"
     },
     {
-      "command": "ビークドライバー(溜め)",
+      "command": "ビーク(溜め)",
       "occur": "34~251",
       "rigit": "+4",
       "advantage": "advantageous",
@@ -193,7 +193,7 @@
       "invincible": "--"
     },
     {
-      "command": "エルクハント",
+      "command": "エルク",
       "occur": "15",
       "rigit": "±0",
       "advantage": "equality",
@@ -207,7 +207,7 @@
       "invincible": "8~空"
     },
     {
-      "command": "ヴァルチャーシーズ",
+      "command": "シーズ",
       "occur": "14",
       "rigit": "--",
       "advantage": "equality",

@@ -10,7 +10,7 @@
           th(scope='col', nowrap) 硬直差
           th(scope='col', nowrap) 無敵
       tbody
-        tr(v-for='(trick, index) in tricks', :key='index')
+        tr(v-for='trick in tricks', :key='trick.number')
           td {{ trick.command }}
           td {{ trick.occur }}
           td(:class='"is-" + trick.advantage') {{ trick.rigit }}

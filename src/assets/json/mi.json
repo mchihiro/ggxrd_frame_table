@@ -123,14 +123,14 @@
       "invincible": "10~21足元"
     },
     {
-      "command": "ダストアタック（5D）",
+      "command": "ダスト(5D）",
       "occur": "28",
       "rigit": "-10",
       "advantage": "unfavorable",
       "invincible": "9~14低姿勢,15~17膝上"
     },
     {
-      "command": "デッドアングルアタック",
+      "command": "DAA",
       "occur": "10",
       "rigit": "-12",
       "advantage": "unfavorable",
@@ -151,14 +151,14 @@
       "invincible": "※要公式参照"
     },
     {
-      "command": "タンデムトップ(S)",
+      "command": "タンデム(S)",
       "occur": "11",
       "rigit": "-1",
       "advantage": "unfavorable",
       "invincible": "--"
     },
     {
-      "command": "タンデムトップ(HS)",
+      "command": "タンデム(HS)",
       "occur": "60",
       "rigit": "--",
       "advantage": "equality",

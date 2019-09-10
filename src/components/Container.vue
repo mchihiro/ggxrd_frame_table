@@ -4,6 +4,8 @@
     Characters
     h3.fz Frame Table
     Frame
+    h3.fz Play Movie
+    Video
     h3.fz Infomation
     Infomation
 </template>
@@ -12,12 +14,14 @@
 import Characters from '@/components/Characters'
 import Frame from '@/components/Frame'
 import Infomation from '@/components/Infomation'
+import Video from '@/components/Video'
 
 export default {
   components: {
     Characters,
     Infomation,
-    Frame
+    Frame,
+    Video
   }
 }
 </script>

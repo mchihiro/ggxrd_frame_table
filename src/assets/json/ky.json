@@ -130,14 +130,14 @@
       "invincible": "--"
     },
     {
-      "command": "ダストアタック（5D）",
+      "command": "ダスト（5D）",
       "occur": "28",
       "rigit": "-5",
       "advantage": "unfavorable",
       "invincible": "--"
     },
     {
-      "command": "デッドアングルアタック",
+      "command": "DAA",
       "occur": "12",
       "rigit": "-13",
       "advantage": "unfavorable",

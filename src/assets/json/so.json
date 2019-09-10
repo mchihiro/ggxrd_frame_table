@@ -207,14 +207,14 @@
       "invincible": "1~4 17~21低姿勢,5~16超低姿勢,24~25打撃,38~43打撃"
     },
     {
-      "command": "レイランレイブ",
+      "command": "タイランレイブ",
       "occur": "5+1",
       "rigit": "-15",
       "advantage": "unfavorable",
       "invincible": "1~8打撃"
     },
     {
-      "command": "レイランレイブ(バースト)",
+      "command": "タイランレイブ(バースト)",
       "occur": "5+1",
       "rigit": "-15",
       "advantage": "unfavorable",

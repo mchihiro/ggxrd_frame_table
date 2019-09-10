@@ -3,6 +3,9 @@
 import Vue from 'vue'
 import App from './App'
 import store from './store'
+import VueYoutube from 'vue-youtube'
+
+Vue.use(VueYoutube)
 
 Vue.config.productionTip = false
 
