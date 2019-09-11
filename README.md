@@ -26,4 +26,8 @@ yarn build
 ### node
 v10.15.1
 
+### cssフレームワーク
+cardinalcssを採用
+[cardinal.css](https://cardinalcss.com/)
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
