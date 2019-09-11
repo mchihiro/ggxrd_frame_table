@@ -1,21 +1,26 @@
-# ggxrd_frame_table
+# GUILTY GEAR Xrd REV 2 レスポンシブ対応フレーム表
+公式のフレーム表がレスポンシブ対応でなかったので、レスポンシブに対応したフレーム表を作成しました
 
-> A Vue.js project
+## 説明  
+レスポンシブ対応のフレーム表です。  
+キャラクター選択後に各キャラクターのフレーム表が見れます。  
+基礎コンボ動画も載せてあります。
 
-## Build Setup
+URL：[GGXrdRev2 Frame Table](https://ggxrdrev2-frametable.firebaseapp.com/)
 
+## 開発環境
+> Vue(postcss, pug) + Vuex + firebase
+
+### ビルドステップ
 ``` bash
 # install dependencies
-npm install
+yarn
 
-# serve with hot reload at localhost:8080
-npm run dev
+# serve with hot reload at localhost:３００３
+yarn start
 
 # build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+yarn build
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
