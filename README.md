@@ -9,7 +9,7 @@
 URL：[GGXrdRev2 Frame Table](https://ggxrdrev2-frametable.firebaseapp.com/)
 
 ## 開発環境
-> Vue(postcss, pug) + Vuex + firebase
+> Vue(postcss, pug) + Vuex + firebase(hosting)
 
 ### ビルドステップ
 ``` bash
@@ -22,5 +22,8 @@ yarn start
 # build for production with minification
 yarn build
 ```
+
+### node
+v10.15.1
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
