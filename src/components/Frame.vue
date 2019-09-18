@@ -1,5 +1,6 @@
 <template lang="pug">
   .table-container
+    p.tl.fz--.m-- ※フレームデータご提供 CookRobidence様
     p.tl.fz--.caution-err(v-show='err') {{ err }}
     table.table.table-border.table-striped.fz---
       caption.caption.tl.fz-(v-show='fullName') {{ fullName }}

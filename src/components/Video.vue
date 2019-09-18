@@ -9,7 +9,7 @@ export default {
     return {
       playerVars: {
         autoplay: 0,
-        'origin': location.protocol + '//' + location.hostname + '/'
+        'origin': 'https://ggxrdrev2-frametable.firebaseapp.com/'
       }
     }
   },
