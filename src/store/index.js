@@ -58,7 +58,7 @@ export default new Vuex.Store({
         youTube.setKey('AIzaSyDlWy2NfJ2Y2giQhAnO7ZjlkzWaLDMXatI')
         const searchVideos = (keyword) => {
           youTube.getById(keyword.video, (err, result) => {
-            if (err) console.log(err)
+            if (err) return false
             commit('setVideos', {id: result.items[0].id, title: result.items[0].snippet.title})
           })
         }
